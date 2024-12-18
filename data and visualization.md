@@ -49,9 +49,11 @@ There are many many kinds of variables. So, it is essential to distinguish diffe
 
 ![image](https://github.com/user-attachments/assets/fc8a646d-4fb0-45a3-bc8b-bc1053c569fd)
 
-● Ratio Variables: Similar to interval but with a meaningful zero point.
+● Ratio Variables: Similar to interval but with a meaningful zero point. A meaningful zero point indicates a complete absence of the characteristic being measured.
 
 ○ Example: Player's height – a height of 0 cm means "no height.”
+
+● To illustrate more the concept of "meaningful zero point": A height of 0 cm literally means there is no height at all. The zero point represents the absolute absence of height. While we use 0 to mark the start of counting age, it doesn't signify the absence of age. A newborn baby, even at age 0, still has an age.
 
 ![image](https://github.com/user-attachments/assets/b1b8900c-3583-44ab-8c22-e56020aafc3e)
 

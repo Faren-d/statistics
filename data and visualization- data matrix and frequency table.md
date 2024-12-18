@@ -35,7 +35,24 @@ So, we do it by Frequency table:
 
 ![image](https://github.com/user-attachments/assets/62b840bc-34da-452e-8fa6-4c9b287cec6f)
 
+but for quantitative variables like below, we do different. First look at the following table:
+
 ![image](https://github.com/user-attachments/assets/3915a417-b0ff-4170-8c77-4caa906283d7)
 
+For the weight variable in this example, it doesn't make sense to compute percentages for every specific value of weight. Because then we would end up with a countless number of categories. This doesn't give a good overview because it barely tells you more than the original data matrix.
+
+What researchers usually do to solve that problem is building new ordinal categories by using intervals. You can see in the follwoing image:
+
+![image](https://github.com/user-attachments/assets/7092e2bc-3181-469e-9e98-d5162eaa2046)
+
+Thtough this way you lose information. But the advantage is that you get a much better overview. So, we say we recoded the variable:
+
+![image](https://github.com/user-attachments/assets/f3b39753-09e5-4560-9e50-3463e065beb7)
+
+It is very easy to recode quantitative variables into ordinal ones. However,you cannot recode ordinal variables into quantitative ones.
+
+## Summary
+
+![image](https://github.com/user-attachments/assets/dc892797-03b9-4364-9b55-d38315c8d054)
 
 

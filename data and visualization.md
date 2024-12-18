@@ -10,9 +10,11 @@
 
   ![image](https://github.com/user-attachments/assets/b11629b2-cb3c-4cb3-a39e-b34a0d1a4e68)
 
-  In the following imgae, ases are not individuals and they are teams.
+  In the following imgae, individuals are not cases. The teams are cases of this example.
 
  ![image](https://github.com/user-attachments/assets/5dbbc1b1-9859-40c0-865c-991189438706)
+
+ Variables need to vary.
 
 ![image](https://github.com/user-attachments/assets/9f5a3f29-a825-4174-a65f-c2b7aaeb83ee)
 
